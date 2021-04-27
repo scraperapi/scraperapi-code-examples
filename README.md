@@ -8,6 +8,9 @@ There are 3 ways in which you can send integrate your scrapers with Scraper API:
 
 All three options have the same functionality and performance, they just offer you the flexibility to integrate Scraper API in the way that is easiest for you.
 
+
+Code Examples
+------
 The following repo contains basic code examples showing you how to integrate ScaperAPI with your scrapers available for each of the three integration options:
 
 1. [Python Requests and Beautifulsoup](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Requests_Beautifulsoup)
