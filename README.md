@@ -11,7 +11,7 @@ All three options have the same functionality and performance, they just offer y
 
 Code Examples
 ------
-The following repo contains basic code examples showing you how to integrate ScaperAPI with your scrapers available for each of the three integration options:
+This repo contains basic code examples showing you how to integrate ScaperAPI using each of the three integration options:
 
 1. [Python Requests and Beautifulsoup](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Requests_Beautifulsoup)
 2. [Python Scrapy](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Scrapy)
