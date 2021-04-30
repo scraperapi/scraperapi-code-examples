@@ -15,5 +15,6 @@ This repo contains basic code examples showing you how to integrate ScaperAPI us
 
 1. [Python Requests and Beautifulsoup](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Requests_Beautifulsoup)
 2. [Python Scrapy](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Scrapy)
+3. [Python Selenium](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Selenium)
 
 The full Scraper API documentation can be found [here](https://www.scraperapi.com/documentation).

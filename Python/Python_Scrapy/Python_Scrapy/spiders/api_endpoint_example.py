@@ -31,6 +31,9 @@ To use this script you need to modify a couple settings in the settings.py file:
 API_KEY = 'YOUR_API_KEY'
 
 def get_scraperapi_url(url):
+    """
+        Converts url into API request for Scraper API.
+    """
     payload = {'api_key': API_KEY, 'url': url}
     proxy_url = 'http://api.scraperapi.com/?' + urlencode(payload)
     return proxy_url
