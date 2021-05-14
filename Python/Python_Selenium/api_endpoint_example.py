@@ -17,7 +17,7 @@ SCRAPER SETTINGS
 You need to define the following values below:
 
 - API_KEY --> Find this on your dashboard, or signup here to create a 
-                free account here https://www.scraperapi.com/signup
+                free account here https://dashboard.scraperapi.com/signup
 
 - RETRY_TIMES  --> We recommend setting this to 2-3 retries, in case a request fails. 
                 For most sites 95% of your requests will be successful on the first try,

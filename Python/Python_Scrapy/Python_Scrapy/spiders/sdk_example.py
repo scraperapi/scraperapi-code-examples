@@ -7,7 +7,7 @@ SCRAPER SETTINGS
 You need to define the following values below:
 
 - API_KEY --> Find this on your dashboard, or signup here to create a 
-                free account here https://www.scraperapi.com/signup
+                free account here https://dashboard.scraperapi.com/signup
 
 To use this script you need to modify a couple settings in the settings.py file:
                 
