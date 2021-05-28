@@ -19,6 +19,7 @@ This repo contains basic code examples showing you how to integrate ScaperAPI us
 3. [Python Selenium](https://github.com/scraperapi/scraperapi-code-examples/tree/main/Python/Python_Selenium)
 
 #### NodeJS
-1. [NodeJS Puppeteer](https://github.com/scraperapi/scraperapi-code-examples/tree/main/NodeJS/NodeJS_Puppeteer)
+1. [NodeJS and Cheerio](https://github.com/scraperapi/scraperapi-code-examples/tree/main/NodeJS/NodeJS)
+2. [NodeJS Puppeteer](https://github.com/scraperapi/scraperapi-code-examples/tree/main/NodeJS/NodeJS_Puppeteer)
 
 The full Scraper API documentation can be found [here](https://www.scraperapi.com/documentation).
