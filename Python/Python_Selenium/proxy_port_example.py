@@ -25,6 +25,7 @@ NUM_RETRIES = 2
 proxy_options = {
     'proxy': {
         'http': f'http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001',
+        'https': f'http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
